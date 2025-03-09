@@ -1,2 +1,2 @@
 # Spam-Message-Detection
-Spam Message Detection
+Processed an SMS dataset from the UCI Data Repository, combining spam messages from Grumbletext and ham messages from the National University of Singapore. Applied K-Means clustering for unsupervised classification and evaluated cluster coherence. Used Principal Component Analysis (PCA) for dimensionality reduction and visualization. Built K-Nearest Neighbors (KNN) models with and without PCA, comparing their performance through accuracy, precision, recall, and F1-score. Designed a spam classifier using different vectorization techniques while ensuring a strict training-testing split to prevent data leakage.
